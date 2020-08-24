@@ -4,7 +4,7 @@
     $message = $_POST['message'];
 
     $email_from = 'johnhendrickson9@gmail.com';
-    $email_subject = "Portfolio Contact";
+    $email_subject = "Portfolio Contact Responce!";
     $email_body = "User Name: $name.\n".
                     "User email: $visitor_email.\n".
                     "User Message: $message.\n";
